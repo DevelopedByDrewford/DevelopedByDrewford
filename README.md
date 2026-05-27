@@ -69,7 +69,7 @@ May 2023 - March 2024 <br />
 
 <table>
   <tr>
-        <td width="50%" valign="top">
+    <td width="50%" valign="top">
       <h3>Houston Guide</h3>
       <p>
         Mobile-first Houston Food & Activity Guide <br />
@@ -82,6 +82,20 @@ May 2023 - March 2024 <br />
       </p>
     </td>
     <td width="50%" valign="top">
+      <h3>Metro Houston</h3>
+      <p>
+        Nearest Train Schedule <br />
+        <i>Full Stack Solo Project</i>
+      </p>
+      <p>
+        <a href="https://metro.drewford.dev">
+          <img src="https://i.imgur.com/aCQFrCY.png" width="100%">
+        </a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
       <h3>Marathon</h3>
       <p>
         Streaming Site Clone <br />
@@ -93,8 +107,6 @@ May 2023 - March 2024 <br />
         </a>
       </p>
     </td>
-  </tr>
-  <tr>
     <td width="50%" valign="top">
       <h3>Curse of Strahd: Plight of the Sunseekers</h3>
       <p>
