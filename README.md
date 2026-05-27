@@ -44,14 +44,14 @@
 
 ## 📌 Professional Work 
 
-### Software Engingeer - [Athos Commerce](https://athoscommerce.com/)
+### Software Engingeer II - [Athos Commerce](https://athoscommerce.com/)
 July 2025 - Present <br />
 
 <p>
   <a href="https://athoscommerce.com/"><img src="https://imgur.com/1SEdSFJ.png" width="400" /></a>
 </p>
 
-### Software Engingeer - [Searchspring](https://searchspring.com/)
+### Software Engingeer I - [Searchspring](https://searchspring.com/)
 March 2024 - July 2025 <br />
 
 <p>
