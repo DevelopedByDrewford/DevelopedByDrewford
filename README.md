@@ -85,7 +85,7 @@ May 2023 - March 2024 <br />
       <h3>Metro Houston</h3>
       <p>
         Nearest Train Schedule <br />
-        <i>React Solo Project</i>
+        <i>Solo React Project</i>
       </p>
       <p>
         <a href="https://metro.drewford.dev">
