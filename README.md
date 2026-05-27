@@ -73,7 +73,7 @@ May 2023 - March 2024 <br />
       <h3>Houston Guide</h3>
       <p>
         Mobile-first Houston Food & Activity Guide <br />
-        <i>Solo React Project</i>
+        <i>Full Stack Solo Project</i>
       </p>
       <p>
         <a href="https://houston.drewford.dev">
@@ -85,7 +85,7 @@ May 2023 - March 2024 <br />
       <h3>Metro Houston</h3>
       <p>
         Nearest Train Schedule <br />
-        <i>Full Stack Solo Project</i>
+        <i>React Solo Project</i>
       </p>
       <p>
         <a href="https://metro.drewford.dev">
