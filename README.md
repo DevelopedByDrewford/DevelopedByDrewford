@@ -77,7 +77,7 @@ May 2023 - March 2024 <br />
       </p>
       <p>
         <a href="https://houston.drewford.dev">
-          <img src="https://i.imgur.com/UlG1G58.png" width="100%"/>
+          <img src="https://i.imgur.com/0qPJzke.png" width="100%"/>
         </a>
       </p>
     </td>
