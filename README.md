@@ -72,7 +72,7 @@ May 2023 - March 2024 <br />
     <td width="50%" valign="top">
       <h3>Houston Guide</h3>
       <p>
-        Mobile-first Houston Food & Activity Guide <br />
+        Houston Food & Community Guide <br />
         <i>Full Stack Solo Project</i>
       </p>
       <p>
